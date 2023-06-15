@@ -4,6 +4,8 @@
 
 Esse arquivo servirá de testes para Markdown.
 
+# **Cabeçalhos (Headings)**
+
 # Titulo <h1>
 
 ## Titulo <h2>
