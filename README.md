@@ -88,3 +88,11 @@ function subName(name: string) {
   color: #000;
 }
 ```
+
+# TaskList
+
+**Últimos Updates**
+
+- [x] Site Responsivo
+- [] Login com facebook
+- [] Página sobre a empresa
