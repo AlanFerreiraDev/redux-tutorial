@@ -99,9 +99,11 @@ function subName(name: string) {
 
 # Tabelas
 
-| Propriedade | Descrição                             |
-| ----------- | ------------------------------------- |
-| name        | Para informar o nome do usuário       |
-| size        | Para definir o tamanho do campo       |
-| background  | Cor do fundo da area em HEX           |
-| onPress     | Função chamada quando clicar no botão |
+| Propriedade | Descrição                                                                                                                   |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------- |
+| name        | Para informar o nome do usuário                                                                                             |
+| size        | Para definir o tamanho do campo                                                                                             |
+| background  | Cor do fundo da area em HEX                                                                                                 |
+| onPress     | Função chamada quando clicar no botão                                                                                       |
+| logo        | ![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)                                      |
+| links       | [**_Instagram_**](https://instagram.com/sujeitoprogramador) **-** [**_Youtube_**](https://youtube.com/c/sujeitoprogramador) |
