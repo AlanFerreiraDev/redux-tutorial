@@ -94,5 +94,5 @@ function subName(name: string) {
 **Últimos Updates**
 
 - [x] Site Responsivo
-- [] Login com facebook
-- [] Página sobre a empresa
+- [ ] Login com facebook
+- [ ] Página sobre a empresa
