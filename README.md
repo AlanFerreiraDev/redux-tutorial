@@ -4,7 +4,7 @@
 
 Esse arquivo servirá de testes para Markdown.
 
-# **Cabeçalhos (Headings)**
+### **Cabeçalhos (Headings)**
 
 # Titulo <h1>
 
@@ -22,24 +22,24 @@ Esse arquivo servirá de testes para Markdown.
 
 _itálico_
 
-## Imagens
+### Imagens
 
 ![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
 
-## Links
+### Links
 
 [**_Instagram_**](https://instagram.com/sujeitoprogramador)
 
 [**_Youtube_**](https://youtube.com/c/sujeitoprogramador)
 
-## Listas não ordenadas
+### Listas não ordenadas
 
 - item 1
 - item 2
 - item 3
 - item 4
 
-## Listas ordenadas
+### Listas ordenadas
 
 1. item 1
    1. item 1.1
@@ -48,15 +48,15 @@ _itálico_
 3. item 3
 4. item 4
 
-# BlockQuote
+### BlockQuote
 
 > Este é um blockquote, usado para destacar alguma área.
 >
 > Segunda área destacada
 
-# Code Highligth
+### Code Highligth
 
-**Comando para rodar o projeto**
+## Comando para rodar o projeto
 
 ```
 yarn run vite ou npm run vite
@@ -89,7 +89,7 @@ function subName(name: string) {
 }
 ```
 
-# TaskList
+### TaskList
 
 **Últimos Updates**
 
@@ -97,7 +97,7 @@ function subName(name: string) {
 - [ ] Login com facebook
 - [ ] Página sobre a empresa
 
-# Tabelas
+### Tabelas
 
 | Propriedade | Descrição                                                                                                                   |
 | ----------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -107,3 +107,5 @@ function subName(name: string) {
 | onPress     | Função chamada quando clicar no botão                                                                                       |
 | logo        | ![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)                                      |
 | links       | [**_Instagram_**](https://instagram.com/sujeitoprogramador) **-** [**_Youtube_**](https://youtube.com/c/sujeitoprogramador) |
+
+### Navegação
