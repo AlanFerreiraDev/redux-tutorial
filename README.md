@@ -47,3 +47,9 @@ _itálico_
 2. item 2
 3. item 3
 4. item 4
+
+# BlockQuote
+
+> Este é um blockquote, usado para destacar alguma área.
+>
+> Segunda área destacada
