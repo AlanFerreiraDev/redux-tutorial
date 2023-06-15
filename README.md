@@ -96,3 +96,12 @@ function subName(name: string) {
 - [x] Site Responsivo
 - [ ] Login com facebook
 - [ ] Página sobre a empresa
+
+# Tabelas
+
+| Propriedade | Descrição                             |
+| ----------- | ------------------------------------- |
+| name        | Para informar o nome do usuário       |
+| size        | Para definir o tamanho do campo       |
+| background  | Cor do fundo da area em HEX           |
+| onPress     | Função chamada quando clicar no botão |
