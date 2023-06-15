@@ -31,3 +31,17 @@ _itálico_
 [**_Instagram_**](https://instagram.com/sujeitoprogramador)
 
 [**_Youtube_**](https://youtube.com/c/sujeitoprogramador)
+
+## Listas não ordenadas
+
+- item 1
+- item 2
+- item 3
+- item 4
+
+## Listas ordenadas
+
+1. item 1
+2. item 2
+3. item 3
+4. item 4
