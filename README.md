@@ -53,3 +53,38 @@ _itálico_
 > Este é um blockquote, usado para destacar alguma área.
 >
 > Segunda área destacada
+
+# Code Highligth
+
+**Comando para rodar o projeto**
+
+```
+yarn run vite ou npm run vite
+
+```
+
+**Exemplo de uso do script**
+
+```ts
+function subName(name: string) {
+  return `Bem vindo ${name}`
+}
+```
+
+**Uso do componente HTML**
+
+```html
+<h1>
+  Título do projeto
+  <span>Curso Git</span>
+</h1>
+```
+
+**CSS padrão do projeto**
+
+```css
+.title {
+  background-color: #fff;
+  color: #000;
+}
+```
