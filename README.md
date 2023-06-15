@@ -28,6 +28,6 @@ _itálico_
 
 ## Links
 
-[Instagram](https://instagram.com/sujeitoprogramador)
+[**_Instagram_**](https://instagram.com/sujeitoprogramador)
 
-[Youtube](https://youtube.com/c/sujeitoprogramador)
+[**_Youtube_**](https://youtube.com/c/sujeitoprogramador)
