@@ -109,3 +109,15 @@ function subName(name: string) {
 | links       | [**_Instagram_**](https://instagram.com/sujeitoprogramador) **-** [**_Youtube_**](https://youtube.com/c/sujeitoprogramador) |
 
 ### Navegação
+
+[ReduxToolKit](#tutorial-reduxtoolkit) |
+[Cabeçalhos](#cabeçalhos-headings) |
+[Imagens](#imagens) |
+[Links](#links) |
+[Listas não Ordenadas](#listas-não-ordenadas) |
+[Listas Ordenadas](#listas-ordenadas) |
+[BlockQuote](#blockquote) |
+[Code Highlight](#code-highligth) |
+[TaskList](#tasklist) |
+[Tabelas](#tabelas) |
+[Navegação](#navegação)
