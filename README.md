@@ -17,3 +17,17 @@ Esse arquivo servirá de testes para Markdown.
 ##### Titulo <h5>
 
 ###### Titulo <h6>
+
+**Negrito**
+
+_itálico_
+
+## Imagens
+
+![Logo do Git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+
+## Links
+
+[Instagram](https://instagram.com/sujeitoprogramador)
+
+[Youtube](https://youtube.com/c/sujeitoprogramador)
