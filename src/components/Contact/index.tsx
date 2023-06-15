@@ -1,9 +1,13 @@
-import { ReactNode } from 'react'
+import { HTMLAttributes, ReactNode } from 'react'
 
-interface ContactsProps {
+interface ContactsProps extends HTMLAttributes<HTMLDivElement> {
   children: ReactNode
 }
 
-export const Contacts = ({ children }: ContactsProps) => {
-  return <div className="container-contacts">{children}</div>
+export const Contacts = ({ children, ...rest }: ContactsProps) => {
+  return (
+    <div className="container-contacts" {...rest}>
+      {children}
+    </div>
+  )
 }
